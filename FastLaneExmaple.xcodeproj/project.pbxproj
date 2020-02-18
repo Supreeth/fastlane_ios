@@ -15,6 +15,7 @@
 		931186DE23FBCE4A00D6F0CB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 931186DC23FBCE4A00D6F0CB /* LaunchScreen.storyboard */; };
 		931186E923FBCE4A00D6F0CB /* FastLaneExmapleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 931186E823FBCE4A00D6F0CB /* FastLaneExmapleTests.swift */; };
 		931186F423FBCE4A00D6F0CB /* FastLaneExmapleUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 931186F323FBCE4A00D6F0CB /* FastLaneExmapleUITests.swift */; };
+		9311870223FC3F5D00D6F0CB /* Fastfile in Resources */ = {isa = PBXBuildFile; fileRef = 9311870123FC3F5D00D6F0CB /* Fastfile */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		931186EF23FBCE4A00D6F0CB /* FastLaneExmapleUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FastLaneExmapleUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		931186F323FBCE4A00D6F0CB /* FastLaneExmapleUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FastLaneExmapleUITests.swift; sourceTree = "<group>"; };
 		931186F523FBCE4A00D6F0CB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9311870123FC3F5D00D6F0CB /* Fastfile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = Fastfile; path = fastlane/Fastfile; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				931186D123FBCE4800D6F0CB /* AppDelegate.swift */,
 				931186D323FBCE4800D6F0CB /* SceneDelegate.swift */,
 				931186D523FBCE4800D6F0CB /* ContentView.swift */,
+				9311870123FC3F5D00D6F0CB /* Fastfile */,
 				931186D723FBCE4A00D6F0CB /* Assets.xcassets */,
 				931186DC23FBCE4A00D6F0CB /* LaunchScreen.storyboard */,
 				931186DF23FBCE4A00D6F0CB /* Info.plist */,
@@ -242,6 +245,7 @@
 			files = (
 				931186DE23FBCE4A00D6F0CB /* LaunchScreen.storyboard in Resources */,
 				931186DB23FBCE4A00D6F0CB /* Preview Assets.xcassets in Resources */,
+				9311870223FC3F5D00D6F0CB /* Fastfile in Resources */,
 				931186D823FBCE4A00D6F0CB /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
